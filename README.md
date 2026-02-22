@@ -7,7 +7,7 @@ Este proyecto permite registrar la asistencia de personas, clasificando los nomb
 
 El programa refuerza la comprensión de **listas**, **bucles** y **condicionales**, además de enseñar a validar entradas del usuario y presentar información organizada. También permite practicar la lógica de control de flujo en situaciones de interacción repetitiva.
 
-Este proyecto contribuye al desarrollo de habilidades para procesar y organizar información en Python, facilitando la gestión de datos simples y la presentación de resultados de manera confiable.
+Este proyecto contribuye al desarrollo de habilidades para procesar y organizar información en Python, facilitando la gestión de datos simples y la presentación de resultados de manera confiable. Además, permite practicar la **clasificación de información**, la **gestión de listas dinámicas** y la **interacción continua con el usuario**, fomentando la capacidad de diseñar sistemas sencillos pero eficientes para el manejo de datos en aplicaciones reales.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
